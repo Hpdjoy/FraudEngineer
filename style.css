@@ -30,10 +30,10 @@
       align-items: center;  
 }
 #headtext{
-        font-size: 13rem;
+        font-size: 11rem;
         position: sticky;
         top: 0px;
-        background: linear-gradient(to right, #666666, #bdbab9,#dc9edc, hsl(55, 57%, 88%));
+        background: linear-gradient(to top, #fcff42, #e9db41,#fcff42, hsl(55, 57%, 88%));
         -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
 }
@@ -120,7 +120,7 @@ li{   background-color: rgb(0, 0, 0,0);
       transform: rotate(360deg);
 }
 #about-txt{
-      font-size:150PX;
+      font-size:130PX;
       margin-top: 60PX;
       background-color: rgb(0, 0, 0,0);
       transition: all 2s ease-in-out ;
@@ -141,7 +141,7 @@ li{   background-color: rgb(0, 0, 0,0);
       display: flex;
       flex-direction:row-reverse;
       flex-wrap: wrap;
-      align-self: auto;
+      align-self:auto;
 }
 #prism-img{
       height:536px;
